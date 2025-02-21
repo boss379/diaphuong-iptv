@@ -418,12 +418,13 @@ http://125hvt.ddns.net:21585/hbo/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v1/key/qnettv.xml
 http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
-#EXTINF:-1 tvg-id="HBO2.pl" group-title="HBO" tvg-logo="https://i.imgur.com/2e3muOJ.png" group-title="Movies;Series",HBO 2 [Geo-blocked]
+#EXTINF:-1 tvg-id="HBO2.pl" group-title="HBO" tvg-logo="https://i.imgur.com/2e3muOJ.png" group-title="Movies;Series",HBO 2 HD (Chặn địa lý)
 http://178.219.128.68:64888/HBO2HD
-#EXTINF:-1 tvg-id="HBO.pl" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies;Series",HBO [Geo-blocked]
+#EXTINF:-1 tvg-id="HBO.pl" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies;Series",HBO HD (Chặn địa lý)
 http://178.219.128.68:64888/HBOHD
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN HD
 https://streamer1.nexgen.bz/AXN/index.m3u8
+
 #EXTINF:-1 tvg-id="ClassicCinema.us" group-title="HBO" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="Movies",Classic Cinema (240p) [Not 24/7]
 https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us" group-title="HBO" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="Movies",Paramount Movie Channel
