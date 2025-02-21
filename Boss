@@ -433,6 +433,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="AXN" group-title="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQpHIUtT-gc4IOao3FlqkFy3H-gr9xdp6XRcppZ5wpQ&s",AXN HD 🇻🇳
 http://125hvt.ddns.net:21585/axn/index.m3u8
+#EXTINF:-1 tvg-id="VictorValleyTV.us" group-title="HBO" tvg-logo="https://i.imgur.com/zgiuNNj.png" group-title="Movies",Victor Valley Movies (1080p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
 
 
 
@@ -474,8 +476,6 @@ http://178.219.128.68:64888/FILMEXTRHD
 https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
 #EXTINF:-1 tvg-id="FilmRiseTrueCrime.us" group-title="Phim truyện" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Movies",Filmrise True Crime (720p)
 https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
-
-
 #EXTINF:-1 tvg-id="Crave1.ca" group-title="Phim truyện" tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="Movies",Crave 1 (720p)
 http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
 #EXTINF:-1 tvg-id="Crave2.ca"  group-title="Phim truyện" tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="Movies",Crave 2 (720p)
