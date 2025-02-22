@@ -9,25 +9,26 @@
 http://p1.cvtv.xyz/vtv1?token=live
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-id="vtv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2
 http://p1.cvtv.xyz/vtv2?token=live
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-id="vtv3hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3
 http://p1.cvtv.xyz/vtv3?token=live
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/VTV4_logo_2013.svg/1200px-VTV4_logo_2013.svg.png",VTV4
 http://14.166.137.127:9981/stream/channelid/1100489344?ticket=7E59B95FE65DC57AEB3E0C376D9B25674C1F2E02&profile=pass
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/VTV5_logo_2013.svg/1200px-VTV5_logo_2013.svg.png",VTV5
 http://p1.cvtv.xyz/vtv5?token=live
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nam-bo.png",VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/VTV5_logo_2013.svg/1200px-VTV5_logo_2013.svg.png",VTV5 Tây Nam Bộ
 http://14.166.137.127:9981/stream/channelid/1858322002?ticket=7D024138C85AF061FF62266485FE53C73A72B006&profile=pass
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nguyen.png",VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/VTV5_logo_2013.svg/1200px-VTV5_logo_2013.svg.png",VTV5 Tây Nguyên
 http://14.166.137.127:9981/stream/channelid/1648410580?ticket=43A4494E5BF9CF01B4224647B0648840B84F7306&profile=pass
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V6.png",VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/VTV6_logo_2013.svg/1200px-VTV6_logo_2013.svg.png",VTV Cần Thơ
 http://14.166.137.127:9981/stream/channelid/1010518358?ticket=2AF0AD2E9F3AECE37B1A0E002E5F28517E284BE8&profile=pass
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V7.png",VTV7
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VTV7_logo_2016.svg/1200px-VTV7_logo_2016.svg.png",VTV7
 http://14.166.137.127:9981/stream/channelid/166848052?ticket=ECEBFE18EF9E75FE624914005F0F8452B34082D4&profile=pass
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V8.png",VTV8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/VTV8_logo.svg/1200px-VTV8_logo.svg.png",VTV8
 http://14.166.137.127:9981/stream/channelid/106360627?ticket=654B726011675BA71447DEEBE44AD32CC3DA7DC7&profile=pass
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V9.png",VTV9
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/VTV9_logo_2016.svg/1200px-VTV9_logo_2016.svg.png",VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}",ON Vie Giải trí
