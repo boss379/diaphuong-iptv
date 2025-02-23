@@ -238,7 +238,7 @@ http://olala.thatvidieu.site/stream/mux/cf71b9fa5c520e4cbd2217f81beb4596
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/National/ANTV.png",ANTV — Truyền Hình Công An Nhân Dân
-https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="Love Nature 4K" group-title="🌐| Thiết yếu" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png",Quốc Phòng FHD
@@ -615,7 +615,7 @@ https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/a
 #EXTINF:-1 tvg-id="History" group-title="Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",History
 https://ec03-pop4-hlc.tv360.vn/bpk-token/yqgmeetrthfrei6x5yhmkdgcclcazqqs/bpk-tv/191/output/191-audio_143235_eng_iv_1=143200-video_iv_1=1575600.m3u8
 #EXTINF:-1 tvg-id="newsasia" group-title="Khám phá" tvg-logo="https://seeklogo.com/images/C/cna-channel-news-asia-logo-387586.png",News Asia
-https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="Khám phá" tvg-logo="https://i.imgur.com/k4pMsZf.png",NHK World
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="dwenglish" group-title="Khám phá" tvg-logo="https://i.imgur.com/T2XeHHB.png",DW English
