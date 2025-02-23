@@ -243,7 +243,7 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png",Quốc Phòng FHD
  https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="fchannel" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/3a0m4B9.png",FPT Channel
+#EXTINF:-1 tvg-id="fchannel" group-title="🌐| Thiết yếu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1024px-FPT_logo_2010.svg.png",FPT Channel
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/hanoi1.png",HanoiTV1 | TH Hà Nội
@@ -417,9 +417,9 @@ http://125hvt.ddns.net:21585/hbo/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v1/key/qnettv.xml
 http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
-#EXTINF:-1 tvg-id="HBO2.pl" group-title="HBO" tvg-logo="https://i.imgur.com/2e3muOJ.png" group-title="Movies;Series",HBO 2 HD (Chặn địa lý)
+#EXTINF:-1 tvg-id="HBO2.pl" group-title="HBO" tvg-logo="https://i.imgur.com/2e3muOJ.png" group-title="Movies;Series",HBO2 HD
 http://178.219.128.68:64888/HBO2HD
-#EXTINF:-1 tvg-id="HBO.pl" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies;Series",HBO HD (Chặn địa lý)
+#EXTINF:-1 tvg-id="HBO.pl" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies;Series",HBO HD 
 http://178.219.128.68:64888/HBOHD
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN HD
 #EXTVLCOPT:sub-file=https://example.com/subtitles/axn_en.srt
@@ -620,7 +620,7 @@ https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b1800000.m3u8
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="dwenglish" group-title="Khám phá" tvg-logo="https://i.imgur.com/T2XeHHB.png",DW English
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist_b5000000.m3u8
-#EXTINF:-#EXTINF:-1 tvg-id="kixhd" group-title="Khám phá" tvg-logo="https://i.imgur.com/9Swg9nD.png",KIX HD
+#EXTINF:-#EXTINF:-1 tvg-id="kixhd" group-title="Khám phá" tvg-logo="https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:KIX_logo.svg",KIX HD
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-#EXTINF:-1 tvg-id="davincihd" group-title="Khám phá" tvg-logo="https://i.imgur.com/yDtb6FE.png",Da Vinci HD
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
