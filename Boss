@@ -238,11 +238,11 @@ http://olala.thatvidieu.site/stream/mux/cf71b9fa5c520e4cbd2217f81beb4596
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/National/ANTV.png",ANTV — Truyền Hình Công An Nhân Dân
-https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b1800000.m3u8
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="Love Nature 4K" group-title="🌐| Thiết yếu" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png",Quốc Phòng FHD
-https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b1800000.m3u8
+https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/01.m3u8
 #EXTINF:-1 tvg-id="fchannel" group-title="🌐| Thiết yếu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/FPT_Play_logo.svg/1200px-FPT_Play_logo.svg.png",F Channel
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b1800000.m3u8
 
