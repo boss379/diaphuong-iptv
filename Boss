@@ -604,7 +604,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="Khám phá" tvg-logo="https://www.scenic.org/wp-content/uploads/2024/06/Photo-brismith933-gmail-com-202581355.jpg", Outdoor Channel HD
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="History" group-title="Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",History
-https://ec03-pop4-hlc.tv360.vn/bpk-token/yqgmeetrthfrei6x5yhmkdgcclcazqqs/bpk-tv/191/output/191-audio_143235_eng_iv_1=143200-video_iv_1=1575600.m3u8
+https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="newsasia" group-title="Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/220px-Channel_NewsAsia_logo_%28shape_only%29.svg.png",News Asia
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="dwenglish" group-title="Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png",DW English
