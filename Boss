@@ -5,7 +5,6 @@
 #EXTM3U x-tvg-url=""
 
 #EXTM3U
-
 #EXTINF:4 group-title="bigboss" tvg-id="qnettv/animalplanet" tvg-logo="" provider="Q.NetTV",[Q.NetTV] Animal Planet
 http://sv2.khanggtivi.xyz:1234/stream/qnettv/animalplanet/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
 #EXTINF:5 group-title="bigboss" tvg-id="qnettv/axn" tvg-logo="" provider="Q.NetTV",[Q.NetTV] AXN
@@ -37,6 +36,55 @@ http://sv2.khanggtivi.xyz:1234/stream/qnettv/tlc/master.m3u8?u=KhanggTivi&p=11bf
 #EXTINF:18 group-title="bigboss" tvg-id="qnettv/warnertv" tvg-logo="" provider="Q.NetTV",[Q.NetTV] Warner TV
 http://sv2.khanggtivi.xyz:1234/stream/qnettv/warnertv/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
 
+
+#EXTINF:-1 tvg-id="hbo" group-title="Trung boss", HBO
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cinemax" group-title="Trung boss", Cinemax
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+#EXTINF:-1 tvg-id="axn" group-title="Trung boss", AXN
+https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cinemaworld" group-title="Trung boss", CinemaWorld
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+#EXTINF:-1 tvg-id="warnertv" group-title="Trung boss", Warner TV
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+#EXTINF:-1 tvg-id="animax" group-title="Trung boss", Animax
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/animax.smil/manifest.mpd
+#EXTINF:-1 tvg-id="animax-asia" group-title="Trung boss", Animax Asia
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+#EXTINF:-1 tvg-id="cbeebies" group-title="Trung boss", CBeebies
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cartoonito" group-title="Trung boss", Cartoonito
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cartoon" group-title="Trung boss", Cartoon Network
+https://e6.endpoint.cdn.sctvonline.vn/live_dzones/cn.smil/manifest.mpd
+#EXTINF:-1 tvg-id="dreamworks" group-title="Trung boss", DreamWorks
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+#EXTINF:-1 tvg-id="aplus" group-title="Trung boss", A Plus
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
+#EXTINF:-1 tvg-id="bloomberg" group-title="Trung boss", Bloomberg
+https://s2129133.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
+#EXTINF:-1 tvg-id="bbcworld" group-title="Trung boss", BBC World News
+https://s7773.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cnn" group-title="Trung boss", CNN
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
+#EXTINF:-1 tvg-id="ap" group-title="Trung boss", AP News
+https://e6.endpoint.cdn.sctvonline.vn/live_dzones/ap.smil/manifest.mpd
+#EXTINF:-1 tvg-id="bbcearth" group-title="Trung boss", BBC Earth
+https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="Trung boss", BBC Lifestyle
+https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
+#EXTINF:-1 tvg-id="dmax" group-title="Trung boss", DMAX
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+#EXTINF:-1 tvg-id="discovery" group-title="Trung boss", Discovery Channel
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+#EXTINF:-1 tvg-id="discoveryasia" group-title="Trung boss", Discovery Asia
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+#EXTINF:-1 tvg-id="tlc" group-title="Trung boss", TLC
+https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
+#EXTINF:-1 tvg-id="fashion-tv" group-title="Trung boss", Fashion TV
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
+#EXTINF:-1 tvg-id="gem" group-title="Trung boss", GEM
+https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
