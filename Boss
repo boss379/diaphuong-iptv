@@ -462,6 +462,11 @@ https://tv.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="warnertvhd" group-title="📦| In The Box tvg-logo="https://i.imgur.com/B9AVT2i.png",Warner TV Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" group-title="Phim truyện" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="Movies",DiscoverFilm
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmBoxExtra.pl" group-title="Phim truyện" tvg-logo="https://i.imgur.com/ML7SlIW.png" group-title="Movies",FilmBox Extra (1080p)
@@ -601,7 +606,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="Quốc tế",Phượng Hoàng Tin Tức
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
-#EXTINF:-1 tvg-id="outdoorfhd" group-title="Khám phá" tvg-logo="https://www.scenic.org/wp-content/uploads/2024/06/Photo-brismith933-gmail-com-202581355.jpg", Outdoor Channel HD
+#EXTINF:-1 tvg-id="outdoorfhd" group-title="Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png", Outdoor Channel HD
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="History" group-title="Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",History
 https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
@@ -621,6 +626,8 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="france24" group-title="Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png", FRANCE 24
 https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="tv5monde" group-title="Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/200px-Logo_TV5_Monde_-_2021.svg.png", FRANCE 24
+https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="axnhd" group-title="Giải trí" group-logo="https://cdn.hqth.me/logo/category/entertainment.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
 http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
@@ -628,9 +635,6 @@ http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLS-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="warnertvhd" group-title="Giải trí" tvg-logo="https://i.imgur.com/B9AVT2i.png",Warner TV Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2880px-Logo_tvN.svg.png" group-title="Giải trí",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Giải trí" tvg-logo="", TVB Xing He
