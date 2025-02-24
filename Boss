@@ -462,7 +462,7 @@ https://tv.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="warnertvhd" group-title="📦| In The Box tvg-logo="https://i.imgur.com/B9AVT2i.png",Warner TV Asia
+#EXTINF:-1 tvg-id="warnertvhd" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/B9AVT2i.png", Warner TV Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
 
