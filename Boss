@@ -2,6 +2,42 @@
 #EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz" tvg-shift=0 m3uautoload=0
 #EXTM3U url-tvg="https://iptvx.one/EPG" deinterlace=0
 #EXTM3U url-tvg="http://content.stream-link.org/epg/guide.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=3
+#EXTM3U x-tvg-url=""
+
+#EXTM3U
+
+#EXTINF:4 group-title="bigboss" tvg-id="qnettv/animalplanet" tvg-logo="" provider="Q.NetTV",[Q.NetTV] Animal Planet
+http://sv2.khanggtivi.xyz:1234/stream/qnettv/animalplanet/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
+#EXTINF:5 group-title="bigboss" tvg-id="qnettv/axn" tvg-logo="" provider="Q.NetTV",[Q.NetTV] AXN
+http://sv2.khanggtivi.xyz:1234/stream/qnettv/axn/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
+#EXTINF:6 group-title="bigboss" tvg-id="qnettv/bbcearth" tvg-logo="" provider="Q.NetTV",[Q.NetTV] BBC Earth
+http://sv2.khanggtivi.xyz:1234/stream/qnettv/bbcearth/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
+#EXTINF:7 group-title="bigboss" tvg-id="qnettv/cartoonnetwork" tvg-logo="" provider="Q.NetTV",[Q.NetTV] Cartoon Network
+http://sv2.khanggtivi.xyz:1234/stream/qnettv/cartoonnetwork/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
+#EXTINF:8 group-title="bigboss" tvg-id="qnettv/cartoonito" tvg-logo="" provider="Q.NetTV",[Q.NetTV] Cartoonito
+http://sv2.khanggtivi.xyz:1234/stream/qnettv/cartoonito/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
+#EXTINF:9 group-title="bigboss" tvg-id="qnettv/cinemaworld" tvg-logo="" provider="Q.NetTV",[Q.NetTV] Cinema World
+http://sv2.khanggtivi.xyz:1234/stream/qnettv/cinemaworld/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
+#EXTINF:10 group-title="bigboss" tvg-id="qnettv/cinemax" tvg-logo="" provider="Q.NetTV",[Q.NetTV] Cinemax
+http://sv2.khanggtivi.xyz:1234/stream/qnettv/cinemax/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
+#EXTINF:11 group-title="bigboss" tvg-id="qnettv/cnn" tvg-logo="" provider="Q.NetTV",[Q.NetTV] CNN
+http://sv2.khanggtivi.xyz:1234/stream/qnettv/cnn/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
+#EXTINF:12 group-title="bigboss" tvg-id="qnettv/discovery" tvg-logo="" provider="Q.NetTV",[Q.NetTV] Discovery
+http://sv2.khanggtivi.xyz:1234/stream/qnettv/discovery/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
+#EXTINF:13 group-title="bigboss" tvg-id="qnettv/discoveryasia" tvg-logo="" provider="Q.NetTV",[Q.NetTV] Discovery Asia
+http://sv2.khanggtivi.xyz:1234/stream/qnettv/discoveryasia/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
+#EXTINF:14 group-title="bigboss" tvg-id="qnettv/dmax" tvg-logo="" provider="Q.NetTV",[Q.NetTV] DMAX
+http://sv2.khanggtivi.xyz:1234/stream/qnettv/dmax/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
+#EXTINF:15 group-title="bigboss" tvg-id="qnettv/dreamworks" tvg-logo="" provider="Q.NetTV",[Q.NetTV] Dream Works
+http://sv2.khanggtivi.xyz:1234/stream/qnettv/dreamworks/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
+#EXTINF:16 group-title="bigboss" tvg-id="qnettv/hbo" tvg-logo="" provider="Q.NetTV",[Q.NetTV] HBO
+http://sv2.khanggtivi.xyz:1234/stream/qnettv/hbo/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
+#EXTINF:17 group-title="bigboss" tvg-id="qnettv/tlc" tvg-logo="" provider="Q.NetTV",[Q.NetTV] TLC
+http://sv2.khanggtivi.xyz:1234/stream/qnettv/tlc/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
+#EXTINF:18 group-title="bigboss" tvg-id="qnettv/warnertv" tvg-logo="" provider="Q.NetTV",[Q.NetTV] Warner TV
+http://sv2.khanggtivi.xyz:1234/stream/qnettv/warnertv/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
+
+
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
