@@ -36,55 +36,85 @@ http://sv2.khanggtivi.xyz:1234/stream/qnettv/tlc/master.m3u8?u=KhanggTivi&p=11bf
 #EXTINF:18 group-title="bigboss" tvg-id="qnettv/warnertv" tvg-logo="" provider="Q.NetTV",[Q.NetTV] Warner TV
 http://sv2.khanggtivi.xyz:1234/stream/qnettv/warnertv/master.m3u8?u=KhanggTivi&p=11bf48ca558fe76530ba7bc6d979852b0bdebb85a4252577d4b5b3894d68109d
 
-
+#EXTM3U
+#EXTGRP:Trung boss
 #EXTINF:-1 tvg-id="hbo" group-title="Trung boss", HBO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v1/key/qnettv.xml
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cinemax" group-title="Trung boss", Cinemax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v1/key/qnettv.xml
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 #EXTINF:-1 tvg-id="axn" group-title="Trung boss", AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cinemaworld" group-title="Trung boss", CinemaWorld
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 #EXTINF:-1 tvg-id="warnertv" group-title="Trung boss", Warner TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #EXTINF:-1 tvg-id="animax" group-title="Trung boss", Animax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/animax.smil/manifest.mpd
 #EXTINF:-1 tvg-id="animax-asia" group-title="Trung boss", Animax Asia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 #EXTINF:-1 tvg-id="cbeebies" group-title="Trung boss", CBeebies
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cartoonito" group-title="Trung boss", Cartoonito
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cartoon" group-title="Trung boss", Cartoon Network
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://e6.endpoint.cdn.sctvonline.vn/live_dzones/cn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="dreamworks" group-title="Trung boss", DreamWorks
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 #EXTINF:-1 tvg-id="aplus" group-title="Trung boss", A Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bloomberg" group-title="Trung boss", Bloomberg
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s2129133.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bbcworld" group-title="Trung boss", BBC World News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s7773.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cnn" group-title="Trung boss", CNN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="ap" group-title="Trung boss", AP News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://e6.endpoint.cdn.sctvonline.vn/live_dzones/ap.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bbcearth" group-title="Trung boss", BBC Earth
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Trung boss", BBC Lifestyle
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 #EXTINF:-1 tvg-id="dmax" group-title="Trung boss", DMAX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTINF:-1 tvg-id="discovery" group-title="Trung boss", Discovery Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #EXTINF:-1 tvg-id="discoveryasia" group-title="Trung boss", Discovery Asia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #EXTINF:-1 tvg-id="tlc" group-title="Trung boss", TLC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 #EXTINF:-1 tvg-id="fashion-tv" group-title="Trung boss", Fashion TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 #EXTINF:-1 tvg-id="gem" group-title="Trung boss", GEM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
+
 
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
