@@ -44,22 +44,22 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cartoon" group-title="Trung boss", Cartoon Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v1/key/qnettv.xml
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"PCAWZmCpOnWsd9uBVnOJ9w","k":"PMGt1Drszj_jHJxqKluMIQ"}],"type":"temporary"}
 https://e6.endpoint.cdn.sctvonline.vn/live_dzones/cn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="dreamworks" group-title="Trung boss", DreamWorks
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v1/key/qnettv.xml
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WTKPYh1WdnvF/5QEqJQGgw","kid":"Z9riBSfGPa2qrmCaqRV3yw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 #EXTINF:-1 tvg-name="Aplus" group-title="Trung boss", Aplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v1/key/qnettv.xml
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
-#EXTINF:-1 tvg-name="AP" group-title="Trung boss", AP
+#EXTINF:-1 tvg-name="AP" group-title="Trung boss", Animal planet 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v1/key/qnettv.xml
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HVOI4HgUFevOyZFPWtdYdQ","kid":"7G8HLHElN3qbwK5hWYCV9A"}],"type":"temporary"}
 https://e6.endpoint.cdn.sctvonline.vn/live_dzones/ap.smil/manifest.mpd
 #EXTINF:-1 tvg-name="BBC Earth" group-title="Trung boss", BBC Earth
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -84,7 +84,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #EXTINF:-1 tvg-name="Discovery Asia" group-title="Trung boss", Discovery Asia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v1/key/qnettv.xml
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eI4oNfuYVortL0e73AkVFQ", "kid":"k0kHsTS+OWOmJjpFOEaSTA" },{ "kty":"oct", } ], "type":"temporary" }
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bloomberg" group-title="Trung boss", Bloomberg
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
