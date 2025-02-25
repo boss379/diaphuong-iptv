@@ -396,6 +396,16 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="onsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1e/ON_Sports_HD.png" group-title="Thể Thao",ON Sports HD
+https://live-cdn04.khanggtivi.xyz:8443/pini=sv3.localhost.ini/THETHAO_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="haytv" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4e/Hay_TV_logo.png" group-title="Giải Trí",HAY TV
+https://live-cdn04.khanggtivi.xyz:8443/pini=sv3.localhost.ini/HAY_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="bongdahd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3e/Bong_Da_HD_logo.png" group-title="Thể Thao",Bóng Đá HD
+https://live-cdn04.khanggtivi.xyz:8443/pini=sv3.localhost.ini/BONGDA_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="thethaotintuchd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/2/2f/The_thao_tin_tuc_HD.png" group-title="Thể Thao",Thể Thao Tin Tức HD
+https://live-cdn04.khanggtivi.xyz:8443/pini=sv3.localhost.ini/THETHAO_TINTUC_HD/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}",ON Vie Giải trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
